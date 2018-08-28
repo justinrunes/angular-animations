@@ -1,0 +1,19 @@
+{
+  "name": "angular-animations",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Angular Animations</h1> <p align=\"center\">     ​ Example Angular app with simple animations </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinrunes/angular-animations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinrunes/angular-animations/issues"
+  },
+  "homepage": "https://github.com/justinrunes/angular-animations#readme"
+}
