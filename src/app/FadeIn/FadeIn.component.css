@@ -1,0 +1,15 @@
+h1 {
+    height: 100px;
+    width: 500px;
+    display: grid;
+    color: #fafafa;
+}
+
+h1:hover {
+    cursor: pointer;
+}
+
+span {
+    justify-self: center;
+    align-self: center;
+}
